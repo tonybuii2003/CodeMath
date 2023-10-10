@@ -46,7 +46,7 @@ GIF created with **peek**
 
 ## Notes
 
-I did some think on how a calculator should work and I better understand listen functionality
+I did some thinking on how a calculator should work and I better understand listen functionality
 
 ## License
 
